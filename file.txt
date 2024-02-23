@@ -1,1 +1,7 @@
-This is a sample file for GIT testing.
+<html>
+<head>
+</head>
+<body style="background color:green">
+<h1 style="color:white">Hello from Rahul</h1>
+</body>
+</html>
