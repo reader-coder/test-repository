@@ -1,1 +1,2 @@
-another file for the second commit
+another file for the second commit,
+Added SSH to git remote repo. Make a commit to verify that.
